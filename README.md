@@ -2,7 +2,7 @@
 
 This project was created as a samplie implementation of [SwiftUI Drag-and-Drop](https://github.com/hellojoelhuber/swiftui-drag-and-drop) library. This README is a mirror of my [personal website](https://www.joelhuber.com/software-documentation/documentation-drag-and-drop-card-game/).
 
-![Card Game Drag-And-Drop Demo](/assets/media/documentation-dragdrop-card-game-demo.gif){:style="display:block; margin-left:auto; margin-right:auto; width:100%; max-width:250px; border:2px solid;"}
+![Card Game Drag-And-Drop Demo](https://github.com/hellojoelhuber/swiftui-drag-and-drop/blob/main/assets/media/documentation-dragdrop-card-game-demo.gif)
 
 # Overview.
 
